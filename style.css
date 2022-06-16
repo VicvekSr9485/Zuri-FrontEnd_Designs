@@ -87,16 +87,6 @@ p {
     color: white;
     border: 2px solid white;
 }
-
-.attribution {
-    background-color: white;
-    max-width: 87vw;
-    margin-bottom: 1rem;
-    padding: 0.5rem;
-    font-family: "Lexend Deca";
-    border-radius: 10px;
-}
-
 @media only screen and (min-width: 1000px) {
 
     main {
