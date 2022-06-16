@@ -23,9 +23,11 @@ main {
     width: 87vw;
     max-width: 400px;
     margin: 1rem 0;
+    text-align: center;
+    padding: 40px, 40px, 40px, 40px;
 }
 
-.card {
+.page {
     padding: 3rem 3rem 3.9rem 3rem;
 }
 
@@ -56,16 +58,19 @@ p {
     border-radius: 35px;
 }
 
-.card-1 {
+.page1 {
     background-color: hsl(31, 77%, 52%);
     border-radius: 10px 10px 0 0;
+}
+.page1 .learn_more {
+    color: hsl(31, 77%, 52%);
 }
 
 .page2 .learn_more {
     color: hsl(31, 77%, 52%);
 }
 
-.card-2 {
+.page2 {
     background-color: hsl(184, 100%, 22%);
 }
 
@@ -99,11 +104,11 @@ p {
         margin-bottom: 6.1rem;
     }
 
-    .card-1 {
+    .page1 {
         border-radius: 10px 0 0 10px;
     }
 
-    .card-3 {
+    .page3 {
         border-radius: 0 10px 10px 0;
     }
 
