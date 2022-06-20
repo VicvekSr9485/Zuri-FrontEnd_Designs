@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+}
+
+.column {
+    background-color: white;
+
+}
+.Huddle, .Grow, .flowing, .user, .ready {
+    padding: 20px;
+    float: left;
+    width: 100%;
+}
+.Huddle {
+    background-color: rgb(237,251,254);
+    text-align: center;
+}
+.Huddle h1 {
+    text-align: left;
+}
